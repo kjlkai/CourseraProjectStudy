@@ -1,5 +1,5 @@
 Introduction to Python
-#https://www.coursera.org/projects/introduction-to-python
+https://www.coursera.org/projects/introduction-to-python
 
 Instructions
 
@@ -16,4 +16,4 @@ This certification does not expire
 Credential ID:
 JB2TAQ782W2C
 Credential URL:
-#https://www.coursera.org/account/accomplishments/certificate/JB2TAQ782W2C
+https://www.coursera.org/account/accomplishments/certificate/JB2TAQ782W2C
