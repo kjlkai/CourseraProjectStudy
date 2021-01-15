@@ -10,7 +10,13 @@ Instructions
 
 Enter the following in the Licenses & Certifications section in LinkedIn:
 
-Name: Introduction to Python Issuing Organization: Coursera Issue Date: January 2021 Expiration Date: This certification does not expire
+Name: Introduction to Python Issuing 
+
+Organization: Coursera 
+
+Issue Date: January 2021 
+
+Expiration Date: This certification does not expire
 
 Credential ID: JB2TAQ782W2C
 
