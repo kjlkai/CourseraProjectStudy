@@ -1,6 +1,6 @@
 # CourseraProjectStudy
 
-20200114
+20200114(https://github.com/kjlkai/CourseraProjectStudy/blob/main/20200114/course.md)
 
 Introduction to Python
 
