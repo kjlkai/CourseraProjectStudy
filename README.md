@@ -1,8 +1,10 @@
 # CourseraProjectStudy
 
-[20200114](https://github.com/kjlkai/CourseraProjectStudy/blob/main/20200114/course.md)
+[2021 01 14](https://github.com/kjlkai/CourseraProjectStudy/blob/main/20200114/course.md)
 
-Credential URL: https://www.coursera.org/account/accomplishments/certificate/JB2TAQ782W2C
+[Introduction to Python] (https://www.coursera.org/projects/introduction-to-python)
+
+{Credential](https://www.coursera.org/account/accomplishments/certificate/JB2TAQ782W2C)
 
 
 
