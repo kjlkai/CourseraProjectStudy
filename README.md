@@ -4,7 +4,7 @@
 
 [Introduction to Python](https://www.coursera.org/projects/introduction-to-python)
 
-[Credential](https://www.coursera.org/account/accomplishments/certificate/JB2TAQ782W2C)
+[Certificate](https://www.coursera.org/account/accomplishments/certificate/JB2TAQ782W2C)
 
 ---------------------------------------------------
 
@@ -13,7 +13,7 @@
 
 [Container Orchestration using Kubernetes](https://www.coursera.org/projects/container-orchestration-kubernetes)
 
-[Credential](https://www.coursera.org/account/accomplishments/certificate/DUTSA4RPN2FM)
+[Certificate](https://www.coursera.org/account/accomplishments/certificate/DUTSA4RPN2FM)
 
 ----------------------------------------------------
 
@@ -21,6 +21,6 @@
 
 [COVID19 Data Analysis Using Python](https://www.coursera.org/projects/covid19-data-analysis-using-python)
 
-[Credential](https://www.coursera.org/account/accomplishments/certificate/H3BXNVU4FRWJ)
+[Certificate](https://www.coursera.org/account/accomplishments/certificate/H3BXNVU4FRWJ)
 
 ---------------------------------------------------------
