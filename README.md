@@ -6,51 +6,19 @@
 
 [Credential](https://www.coursera.org/account/accomplishments/certificate/JB2TAQ782W2C)
 
+---------------------------------------------------
 
 
+[20200125](https://github.com/kjlkai/CourseraProjectStudy/blob/main/20200125/course.md)
 
-20200125
+[Container Orchestration using Kubernetes](https://www.coursera.org/projects/container-orchestration-kubernetes)
 
-Container Orchestration using Kubernetes
-
-https://www.coursera.org/projects/container-orchestration-kubernetes
-
-Instructions
-
-Enter the following in the Licenses & Certifications section in LinkedIn:
-
-Name: Container Orchestration using Kubernetes
-
-Issuing Organization: Coursera
-
-Issue Date:January 2021
-
-Expiration Date:This certification does not expire
-
-Credential ID:DUTSA4RPN2FM
-
-Credential URL: https://www.coursera.org/account/accomplishments/certificate/DUTSA4RPN2FM
+[Credential](https://www.coursera.org/account/accomplishments/certificate/DUTSA4RPN2FM)
 
 
-20200126
+[20200126](https://github.com/kjlkai/CourseraProjectStudy/blob/main/20210126/course.md)
 
-COVID19 Data Analysis Using Python
+[COVID19 Data Analysis Using Python](https://www.coursera.org/projects/covid19-data-analysis-using-python)
 
-https://www.coursera.org/projects/covid19-data-analysis-using-python
-
-Instructions
-
-Enter the following in the Licenses & Certifications section in LinkedIn:
-
-Name: COVID19 Data Analysis Using Python
-
-Issuing Organization: Coursera
-
-Issue Date: January 2021
-
-Expiration Date: This certification does not expire
-
-Credential ID: H3BXNVU4FRWJ
-
-Credential URL: https://www.coursera.org/account/accomplishments/certificate/H3BXNVU4FRWJ
+[Credential](https://www.coursera.org/account/accomplishments/certificate/H3BXNVU4FRWJ)
 
